@@ -1,0 +1,29 @@
+{
+    "expo": {
+        "name": "AndamanHub",
+        "slug": "AndamanHub",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/images/nowlogo.png",
+        "userInterfaceStyle": "automatic",
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/images/nowlogo.png",
+                "backgroundColor": "#335EF7"
+            },
+            "package": "com.andamanhub.user"
+        },
+        "web": {
+            "favicon": "./assets/images/nowlogo.png"
+        },
+        "extra": {
+            "eas": {
+                "projectId": "79476fb7-488f-4668-a720-f15f2c0efd48"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "739276178108",
+    "project_id": "andmanhub",
+    "storage_bucket": "andmanhub.firebasestorage.app"
+  },
+  "client": [
+    
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739276178108:android:3da6d86636836d4fac06b9",
+        "android_client_info": {
+          "package_name": "com.mayankal.provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWXuoQV4khMNnjtOcWBs80ffVakTbIwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739276178108",
+    "project_id": "andmanhub",
+    "storage_bucket": "andmanhub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739276178108:android:80aa0de7d26d0d85ac06b9",
+        "android_client_info": {
+          "package_name": "com.andamanhub.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739276178108-fd1333peou8u65ep4q5v21tdgbreiqd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andamanhub.user",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "739276178108-9m873ndkpd7fsbtnrq9eem4ldf0e7gua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWXuoQV4khMNnjtOcWBs80ffVakTbIwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739276178108-9m873ndkpd7fsbtnrq9eem4ldf0e7gua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
